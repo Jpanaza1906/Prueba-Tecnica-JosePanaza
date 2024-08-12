@@ -1,5 +1,9 @@
 # Prueba-Tecnica-JosePanaza
 
+### Instalar dependencias
+
+- npm install
+
 ### Dependencias a Instalar
 
 - Express para crear el backend
